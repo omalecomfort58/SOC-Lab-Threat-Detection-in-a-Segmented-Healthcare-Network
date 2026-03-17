@@ -1,0 +1,2 @@
+# SOC-Lab-Threat-Detection-in-a-Segmented-Healthcare-Network
+This project simulates a real-world Security Operations Center (SOC) environment within a healthcare organization. The goal was to design a secure network, detect cyber threats, and respond to incidents using a SIEM solution.  The lab focuses on improving visibility, threat detection, and incident response capabilities in a segmented network.
